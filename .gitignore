@@ -1,1 +1,6 @@
 .vercel
+node_modules/
+dist/
+scratch/
+.vercel/
+.DS_Store
